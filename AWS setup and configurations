@@ -1,0 +1,11 @@
+Step 1 (request spot instance and select AMI):
+https://www.youtube.com/watch?v=Y2ggt6l7PTo
+
+
+Step 2 (Volume, Key Pair, and Security Group):
+https://www.youtube.com/watch?v=Yr_rRyEOTnM
+
+Step 3 (Connect to the instance):
+
+If your OS is Linux: https://www.youtube.com/watch?v=Yr_rRyEOTnM
+If you OS is windows follow these steps: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html

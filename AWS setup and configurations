@@ -10,3 +10,5 @@ Step 3 (Connect to the instance):
 If your OS is Linux: https://www.youtube.com/watch?v=Yr_rRyEOTnM
 If you OS is windows follow these steps: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
 or this https://linuxacademy.com/howtoguides/posts/show/topic/17385-use-putty-to-access-ec2-linux-instances-via-ssh-from-windows
+
+but for host name just put you Instanse ID
